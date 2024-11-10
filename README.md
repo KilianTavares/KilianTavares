@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Kilian, A full stack software engineer based out of Sydney, Australia
+My name is Kilian, A full stack software engineer based out of Sydney, Australia 🦘
 
 Currently working @ Investor Haven 😎
 
